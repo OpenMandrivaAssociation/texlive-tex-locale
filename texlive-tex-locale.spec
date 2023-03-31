@@ -1,6 +1,6 @@
 Name:		texlive-tex-locale
 Version:	48500
-Release:	1
+Release:	2
 Summary:	Localisation support for TeX and LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tex-locale
