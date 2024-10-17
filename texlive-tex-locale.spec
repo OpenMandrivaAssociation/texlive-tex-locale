@@ -3,7 +3,7 @@ Version:	48500
 Release:	2
 Summary:	Localisation support for TeX and LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tex-locale
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tex-locale
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-locale.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-locale.doc.r%{version}.tar.xz
